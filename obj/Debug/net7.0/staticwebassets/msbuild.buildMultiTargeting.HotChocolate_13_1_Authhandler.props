@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HotChocolate_13_1_Authhandler.props" />
+</Project>
